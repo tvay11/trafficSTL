@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script uses Google Maps Directions API to fetch real-time estimated travel times between various origin-destination pairs. The script reads these pairs from a CSV file (`locations.csv`) and writes the travel time information to another CSV file (`travel_time_data.csv`). The collected data is appended to the CSV file every few seconds, providing a time-series of travel times.
+This Python script uses Google Maps Directions API to fetch real-time estimated travel times between various origin-destination pairs. The script reads these pairs from a CSV file (`locations.csv`) and writes the travel time information to another CSV file (`travel_time_data.csv`). The collected data is appended to the CSV file every three minutes, providing a time-series of travel times.
 
 ## Prerequisites
 
