@@ -37,6 +37,7 @@ To keep sensitive information like your API key secure, create a `.gitignore` fi
 
 # Ignore configuration files
 config.json
+```
 
 ## Usage
 
